@@ -3,7 +3,7 @@
 }
 
 h2 {
-  color: darkcyan;
+  color: black;
 }
 
 ol {
@@ -11,14 +11,14 @@ ol {
 }
 
 .heading {
-  color: darkgoldenrod;
+  color: black;
 }
 
 table {
   font-style: oblique;
   border-style: double;
   border: 5px solid lightblue;
-  color: darkgreen;
+  color: black;
 }
 
 thead {
